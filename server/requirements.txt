@@ -1,0 +1,14 @@
+Flask>=1.1.1
+Click>=7.0
+gunicorn>=19.9.0
+itsdangerous>=1.1.0
+Jinja2>=2.11.1
+MarkupSafe>=1.1.0
+Werkzeug>=1.0.0
+setuptools>=45.0.0
+wheel>=0.30.0
+flask_babel>=2.0.0
+requests>=2.20.0
+Flask-WTF>=0.10.0
+python-dateutil>=2.7.0
+Flask-JWT-Extended>=3.0.0

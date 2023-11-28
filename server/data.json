@@ -1,0 +1,1054 @@
+{
+
+"version":"1.0",
+"author":"Hakan Guldal, hguldal@trakya.edu.tr",
+"description":"Modern Fizik Chatbot",
+
+"turkish_special_chars":
+    [
+        ["İ","i"],
+        ["ı","i"],
+        ["ş","s"],
+        ["ü","u"],
+        ["ö","o"],
+        ["ğ","g"],
+        ["ç","c"]
+    ],
+
+"abbrs":
+    [
+        ["mrb","merhaba"],
+        ["meraba","merhaba"],
+        ["mrblar","merhabalar"],
+        ["nbr","ne haber"],
+        ["naber","ne haber"],
+        ["tmm","tamam"],
+        ["ii","iyi"],
+        ["slm","selam"],
+        ["bye","hoscakal"],
+        ["kib","kendine iyi bak"]
+    ],
+
+"default_answers":
+    [
+        {
+           "text":"Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin",
+           "url":"",
+           "image_url":""     
+        },
+        {
+            "text":"Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin",
+            "url":"",
+            "image_url":""
+        }
+           
+    ],
+
+"questions_and_answers":
+    [
+        {
+            "questions":[
+                "fizik",
+                "ivme",
+                "kuvvet"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"Şu an için sadece modern fizikle ilgili konuları biliyorum &#129300; Ama kendimi sürekli geliştiriyorum  &#128512;",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "Modern fizik",
+                "Modern fizik nedir",
+                "Modern fizik ne demektir",
+                "Modern fizik deyince aklımıza ne gelir"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"Klasik fizik ile tanımlanamayan olayları açıklamak üzere ortaya atılmış teorilerin tümüne modern fizik adı verilir. Atom ve atom altı parçacıklardan oluşan mikro evrendeki parçacıkların ve ışık hızına yakın hızlarda hareket eden cisimlerin hareket ve davranışlarını açıklamaya çalışır.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "Modern fizik konuları nelerdir",
+                "Modern fizik neleri kapsar",
+                "Modern fiziğin içine giren şeyler nelerdir",
+                "Modern fizik neyi inceler"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"Modern fizik, günlük yaşamımızda haşır neşir olduğumuz cisimlerin gözle görülemeyecek kadar küçük parçalarıyla (atomik boyutlarla 10−9 m civarı) ya da günlük hızların binlerce kat fazlasıyla (ışık hızına yakın hızlarla 108 ms civarı) uğraşır.Başlıca konuları görelilik, kara cisim ışıması, fotoelektrik etki, atom modelleri, Compton olayı, Stern-Gerlach deneyi, dalga-parçacık ikiliği sayılabilir.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "einstein",
+                "anştayn",
+                "einstein kimdir",
+                "einstein hakkında bilgi verirmisin"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"Dünyada, en çok tanınan bilim insanlarından biri",
+                    "url":"",
+                    "image_url":"https://en.wikipedia.org/wiki/Albert_Einstein#/media/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg"     
+                },
+                {
+                    "text":"Ünlü bir fizikçi",
+                    "url":"",
+                    "image_url":"https://en.wikipedia.org/wiki/Albert_Einstein#/media/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg"     
+                },
+                {
+                    "text":"Kuramsal fiziğe verdiği hizmetler ve özellikle fotoelektrik etkiyi buluşu için  1921 yılında Nobel Fizik Ödülü alan ünlü fizikçi.",
+                    "url":"",
+                    "image_url":"https://en.wikipedia.org/wiki/Albert_Einstein#/media/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg"     
+                },
+                {
+                    "text":"Einstein deyince aklıma hep E=mc2 formülü gelir.",
+                    "url":"",
+                    "image_url":"https://en.wikipedia.org/wiki/Albert_Einstein#/media/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg"     
+                },
+                {
+                    "text":"e=mc2",
+                    "url":"",
+                    "image_url":"https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence#/media/File:E=mc%C2%B2-explication.svg"     
+                }
+            ]
+        
+        },
+
+        {
+            "questions":[
+                "anştayn nobel",
+                "anştayn nobel ödülü",
+                "einstein nobel ödülü",
+                "eistein nobel"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"1921 yılında ‘Kuramsal fiziğe verdiği hizmetler ve özellikle fotoelektrik etkiyi buluşu için’ kendisine Nobel Fizik Ödülü verilmiştir.",
+                    "url":"https://www.nobelprize.org/prizes/physics/1921/einstein/facts/",
+                    "image_url":"https://www.nobelprize.org/images/einstein-12923-portrait-mini-2x.jpg"     
+                }
+                
+                
+            ]
+        
+        },
+
+        {
+            "questions":[
+                "Görelilik nedir",
+                "görelilik",
+                "görelilik teorisi",
+                "görelilik kuramı",
+                "izafiyet"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"Görelilik, bir fiziksel büyüklüğün farklı gözlemcilerce ölçülen değerleri arasındaki ilişkiyi belirler.",
+                    "url":"https://tr.wikipedia.org/wiki/G%C3%B6relilik_teorisi",
+                    "image_url":"https://tr.wikipedia.org/wiki/G%C3%B6relilik_teorisi#/media/Dosya:Spacetime_curvature.png"     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "Doppler etkisi",
+                "dopler",
+                "doppler"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"Doppler etkisi, adını ünlü bilim insanı ve matematikçi Christian Andreas Doppler'den almakta olup, kısaca dalga özelliği gösteren herhangi bir fiziksel varlığın frekans ve dalga boyu'nun hareketli bir gözlemci tarafından farklı zaman veya konumlarda farklı algılanması olayıdır.  Günlük hayatta buna her zaman tanık olmaktayız. Örneğin bir yolun kenarında beklerken bize yaklaşan taşıtların motorundan çıkan seslerin frekansının giderek arttığını duyarız. Araç yanımızdan geçip bizden uzaklaşmaya başladığındaysa frekans giderek azalır. Linkteki videoya gözatmanı tavsiye ederim https://www.youtube.com/watch?v=rbcvPEXiWWo ",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "Michelson-Morley deneyi",
+                "Michelson-Morley",
+                "Michelson Morley",
+                "Michelson",
+                "Morley"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"Deneyin hedefi, varsayımsal etere göre Dünya’nın hızını tayin etmekti. Eğer Dünya eter adı verilen varsayımsal ortamın içerisinde ilerliyorsa, ışık düzenek içerisinden geçip farklı zamanlarda alıcıya düşecekti. Daha detaylı ifade edecek olursak, Dünya eterin içerisinden v hızıyla akıyorsa, eter de Dünya etrafında v hızıyla akar. Dünya’nın hareketine zıt yönde olan bu eterin v hızıyla akışı, Dünya referans sisteminde ölçülen ışık hızının (c) aynaya yaklaşırken c-v, aynadan yansıdıktan sonra da c+v olması demektir. Yapılan ve tekrarlanan deneyler ışık hızında herhangibir değişiklik olmadığını gösterdi. Ölçülen hız aynaya yaklaşırken de, uzaklaşırken de c oluyordu. Bu dünyanın durduğu sonucunu doğuruyordu ki bu mümkün değildi. Bu sonuç bizi başka bir yargıya daha ulaştırabilir; ışık dünyanın hareketinden etkilenmeden hareket eder.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "Görelilik teorisi ışık hakkında bir kuram mıdır",
+                "görelilik ve ışık",
+                "görelilik ışık",
+                "görelilik ışık ilişkisi",
+                "görelilik ışıkla ilişkisi",
+                "göreliliğin ışıkla ilişkisi"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"Görelilik ışık hakkında kendinden önce yapılan çalışmalardan farklı bir şey söylemez. Görelilik kuramı tamamen ve sadece uzay ve zaman hakkındadır. Daha doğrusu, farklı gözlemcilerin uzay ve zamanı ne derece farklı algıladığını açıklar.",
+                    "url":"",
+                    "image_url":""     
+                },
+                {
+                    "text":"Görelilik kuramında ışığın boşluktaki hızının bir sınır hız olarak belirdiğini görüyoruz. Hiçbir cisim veya parçacık, ne kadar hızlanırsa hızlansın bu sınır hızı geçemez.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "referans",
+                "referans sistemi",
+                "gözlem çerçevesi"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"Fizikte yapılan ölçümler veya problemlerin çözümü için kullanılan ve koordinat belirlemeye dayanak sağlayan geometrik sistemlere koordinat veya referans sistemi denir.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "Eylemsiz referans sistemi",
+                "eylemsizlik referans"
+            ],
+            
+            "answers":[
+                {
+                    "text":"Newton’un birinci yasasına göre hareket eden referans sistemlerine yani sabit hızla(sıfır ivmeli) hareket eden sistemlere eylemsiz referans sistemi denir.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "Özel göreliliğin postülaları",
+                "özel görelilik",
+                "özel görelilik postülaları"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"Özel göreliliğe göre; 1) Fizik yasaları tüm eylemsiz referans sistemlerinde aynıdır. 2) Tüm eylemsiz referans sistemlerinde ışığın boşluktaki hızı her yönde aynı olup c=299792458 m/s değerindedir.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+
+        {
+            "questions":[
+                "Zaman genleşmesi",
+                "zaman genleşme"
+            ],
+            
+            "answers":[
+                {
+                    "text":"Durmakta olan gözlemci için iki saat düşünelim. Bu saatlerden biri gözlemciye göre durgun iken diğeri hareket etsin. Einstein’ın özel görelilik ilkesine göre, durmakta olan gözlemciye göre hareket eden saat duran saate göre daha yavaş işler.Sonuç olarak, hareketli sistemdeki bir saat durgun olan saate göre gama çarpanı kadar yavaş çalışır. Bu sadece saatler için değil, tüm mekanik ve biyonik her şey için geçerlidir. Yani hareketli olan tarafsanız, yaşlanmanız durgun olana göre daha uzun sürecektir. Bu olaya zaman genişlemesi adını veriyoruz.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "uzunluk büzülmesi",
+                "boy kısalması"
+            ],
+            
+            "answers":[
+                {
+                    "text":"Özel göreliliğin bir diğer önemli sonucu da boy kısalmasıdır. Tıpkı zaman genişlemesinde olduğu gibi, ışık hızına yakın hızlarda boy da göreli olarak değişime uğrar. Lorentz daralması veya uzunluk büzülmesi verilen olay, ışık hızına yakın hızlarda hareket eden bir cismin duran gözlemciye göre daha kısa görünmesi olarak basitçe ifade edilebilir. Boydaki kısalmanın sadece hareket doğrultusunda gerçekleştiği de not edilmelidir.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                
+                "ikizler paradoksu",
+                "ikizler paradoxu",
+                "ikizler paradoks",
+                "ikizler paradox",
+                "paradox",
+                "paradoks"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"Özel görelilik kuramı, zamanın mutlak olmadığını, farklı gözlemciler için farklı hızlarla aktığını söyler. İkizler paradoksu, bu durum ile ilişkilendirilen bir düşünce deneyidir. İkizler paradoksunu anlamak için öncelikle Einstein’ın 1911 yılında yazdığı şu satırlara göz atalım: Bir kutunun içine canlı bir organizma yerleştirmişsek... Öyle bir ayarlama yapılabilir ki, keyfi derecede uzun bir yolculuktan sonra organizma neredeyse hiç değişmemiş bir şekilde başlangıç yerine geri dönebilir. Ancak bu sırada başlangıç noktasında duran organizmalardan yeni nesiller üremiş olacaktır. Eğer yolculuk neredeyse ışık hızıyla yapılmışsa, hareket eden organizma için tüm yolculuk çok kısa sürecektir. Dolayısıyla eğer durağan organizma bir insan, yolculuk yapan organizmaysa onun ikiziyse, zaman, yolculuk yapan kardeş için daha yavaş akacak ve geri döndüğünde kardeşini kendisinden çok daha fazla yaşlanmış bulacaktır.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "Lorentz Dönüşümleri",
+                "Lorentz",
+                "Lorents Dönüşümleri",
+                "Lorents",
+                "lorentz dönüşüm"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"Özel izafiyet teorisinde farklı referans sistemleri arasındaki zaman ve koordinat degerlerinin arasındaki ilişkiyi ortaya koyan bagıntılardır..Hollandalı fizikçi Loretnz bu bagıntıları Einstein ozel izafiyet yasasını ortaya atmadan once olusturmustur. v<<c olması halinde Lorentz dönüşümleri galileo dönüşümlerine indirgenir.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "Kütle ve enerji eşdeğerliği",
+                "kütle ve enerji",
+                "kütle enerji"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"Einstein 1905 yılında yazdığı makaleyle özel göreliliği fiziğe kazandırmıştı. Bu kuramın en ünlü sonuçlarından biri kütle ile enerjinin eşdeğerliğiydi: E = mc2. Einstein’a kadar bir cismin kütlesi sadece o cisimdeki madde miktarının ölçüsü olarak görülüyordu. 1905’ten sonra kütle cismin enerji içeriğinin de ölçüsü olmuştur. Hareketsiz halde duran bir cisim, bir kütle enerjisine sahiptir",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "Neden özel görelilik teorisi genel bir teoridir",
+                "özel görelilik genel bir teori",
+                "newton fiziği",
+                "özel görelilik neden"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"Newton fiziğinde kütleyi nasıl ele aldığımızdan daha önce bahsetmiştik. Newton fiziği, her ne kadar günlük hayatımızda işimize yarasa da ışık hızına yaklaştıkça yanlış tahminlerde bulunmaktadır. Bu tarz durumlarda, Newton fiziğinin çok daha genel bir hali olan özel görelilik teorisini kullanmamız gerekir.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "Işik hizi her eylemsiz gözlemci için ayni midir"
+            ],
+            
+            "answers":[
+                {
+                    "text":"Evet aynıdır.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "Özel görelilik teorisi kütle tanimi",
+                "özel görelilik kütle"
+            ],
+            
+            "answers":[
+                {
+                    "text":"Bir cismin kütlesi, cismin durağan halde olduğu bir referans sisteminde ölçüldüğü enerjisidir. Diğer bir ifadeyle cismin durağan haldeyken sahip olduğu enerjisidir.",
+                    "url":"",
+                    "image_url":""     
+                },
+                {
+                    "text":"Özel görelilik kuramından elde edilen bütün sonuçların etkileri, gündelik hayatımızda fark edemeyeceğimiz kadar küçük. Ancak çok büyük hızlar veya enerjiler söz konusu olduğunda, bu kuramın öngördüğü etkiler belirgin hale geliyor.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "Göreli kütle"
+            ],
+            
+            "answers":[
+                {
+                    "text":"Göreli kütle, cismin sahip olduğu hıza bağlıdır; cisim durağan iken durağan kütle ile aynı değere sahiptir ve ışık hızına yaklaştıkça değeri de sonsuza yakınsar.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "Zaman mutlak midir",
+                "zaman göreceli",
+                "zaman sabit",
+                "zaman mutlakmıdır",
+                "zaman mutlak",
+                "zaman"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"Zaman gözlemciye bağlı olarak değişir. Özel göreliliğin en önemli sonuçlardan bir tanesi zamanın mutlaklığının olmaması. İlk defa Newton tarafından dile getirilen mutlak zaman kavramı, herkese göre aynı işleyen, gözlemciden gözlemciye değişmeyen tek bir zamanın olduğunu söyler. Ama görelilik kuramında, farklı gözlemcilerin belli iki olay arasında geçen süreyi farklı bulduğunu görüyoruz. Görelilik ilkesi gereği, her gözlemciye göre geçen zaman o gözlemciye göre doğru olduğu için de mutlak bir zamandan söz edemiyoruz.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "Zaman genleşmesinin kanitlari",
+                "zaman genleşmesi örneği",
+                "zaman genleşme örnek",
+                "zaman genleşme",
+                "zaman genleşmesi"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"Zamanın genişlemesi 1970'lerde yapılan bir deney ile ispatlanmaya çalışılmıştır. Dünya üzerinde bir laboratuvarda ve bir uçakta çok hassas atom saati bulundurulmuştur. Jet uçağı Dünya etrafında doğu ve batı yönünde dolandırılmış ve uçaktaki saat ile labarotuvardaki zaman kıyaslanmıştır. Uçakta hareket hâlindeki saatin sabit saate göre 239 ns daha yavaş çalıştığı sonucuna ulaşılmıştır. Zamanın genişlemesini gösteren bir diğer deney de müon atom altı parçacık deneyidir. Uzaydan Dünya’ya gelen müon parçacıkları ışık hızına çok yakın hızlarda hareket eder. Müonların yarılanma süresi 2 mikrosaniye (μs) dir. Buna göre müonların yaşam 600 metre içinde sona ermesi gerekir. Yeryüzüne ulaşmaları ancak zamanın genişlemesi ile açıklanabilir. Yeryüzünde ölçülen yarı ömürlerinin 16 μs olması yine zamanın genişlemesini kanıtlar.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "Atom modeli|",
+                "atom model"
+            ],
+            
+            "answers":[
+                {
+                    "text":"Deneysel gözlemlere dayanarak, atomun yapısını ve davranışını akılcı bir biçimde açıklayan şekilllere ve özelliklere atom modeli denir.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "atom modeli siralamasi",
+                "atom modeli siralama",
+                "atom modeli kronoloji",
+                "atom modelleri",
+                "atom model"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"1) Dalton Atom Modeli 2) Thomson Atom Modeli 3) Rutherford Atom Modeli 4) Bohr Atom Modeli 5)Modern Atom Teorisi",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "atom",
+                "yunan atom"
+            ],
+            
+            "answers":[
+                {
+                    "text":"Yunan atom teorisi Miletli LEUCIPPUS (M.Ö. 430 tahminen) ve bilhassa talebesi DEMOCRITUS (M.Ö. 470-400 tahminen) tarafindan kurulmus, Sisamli EPICURUS (M.Ö. 306) ve antikitenin en dikkate deger materyalist sistemiyle De Natura Rerum'un (esyanin mahiyeti hakkinda) müellifi Lâtin sair ve fizikçisi LUCRETIUS (M.Ö. 90-95) tarafindan devam ettirilmistir. Bunlara göre madde ancak bir dereceye kadar bölünebilir. Artik bölünmesi mümkün olmayan son bölünme kismina da Epikurus, Yunancada bölünemez anlamina gelen Atomos'dan Atom adini vermistir. Atomlar sert ve doludurlar. Bir cisim bunlarin birlesmesi ile vücut bulur, ayrilmasa ile de mahvolur. Atom kavramı ilk kez Yunanistan’ın İskeçe şehrine bağlı bir sahil kasabası olan Abdera’da ortaya atılmıştır. Haritadan bakmanızı tavsiye ederim.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "Genel görelilik ilkesi",
+                "Genel görelilik ilke"
+            ],
+            
+            "answers":[
+                {
+                    "text":"Genel görelilik kuramı  gözlem çerçevelerinin birbirlerine göre değişen hızlarla, yani ivmeli hareket ettiği durumu inceler. Einstein, bu kuramın temelini oluşturan ana ilkeyi 1907 yılında öne sürdü. Ama kuramın bütün matematiksel detaylarını ancak 1916 yılında tamamlayabildi. Matematiksel detayları daha karmaşık olan bu kuram, kütleçekim kuvveti hakkında bildiklerimizi tamamen değiştiriyor. Buna ek olarak evrenbilim, yani evrenin tümünü ilgilendiren konulardaki araştırmalar bu kuram çerçevesinde yapılıyor.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "Sabit hiz fizik kanunlari",
+                "Sabit hiz fizik kanun"
+            ],
+            
+            "answers":[
+                {
+                    "text":"Eylemsiz referans sistemlerinde fizik yasaları aynen geçerlidir.",
+                    "url":"",
+                    "image_url":""     
+                },
+                {
+                    "text":"Sabit hızlı bir araç içindeki deneylerin sonuçları aracın hızına bağımlı değildir. Bu nedenle, bu deneylere bakarak aracın hızını da belirleyemezsiniz.  Yani, eğer pencereleri kapalı bir araçtaysanız, araç içinde ışığın hızını ölçerek aracın ne kadar hızlı gittiğini anlayamazsınız. Araç duruyor olsa da, hareketli olsa da hep aynı değeri bulmanız gerekir.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "olay",
+                "olay ne"
+            ],
+            
+            "answers":[
+                {
+                    "text":"Görelilik kuramıyla uğraşırken olay terimini sıkça kullanıyoruz. Genellikle olay deyince, belli bir yer ve belli bir zamanda meydana gelen somut bir değişimden bahsederiz; örneğin bir flaşın patlaması, bir bir mumum sönmesi veya bir parçacığın bozunması gibi. Dolayısıyla, bir olayı belirlemek için uzaydaki konumunu ve meydana geliş zamanını belirtmek zorundayız.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "Uzunluk mutlak",
+                "uzunluk göreceli",
+                "görelilik uzunluk"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"Mutlak uzay kavramının geçerli değildir. Yani, farklı gözlemciler zamanı olduğu gibi uzaklıkları da farklı ölçerler.",
+                    "url":"",
+                    "image_url":""     
+                },
+                {
+                    "text":"Uzunluk büzülmesi adı verilen bir durumun varlığı aslında Einstein’dan birkaç yıl önce birbirlerinden bağımsız çalışan iki bilim insanı, Hollandalı Hendrik Lorentz ve İrlandalı George Fitzgerald tarafından da ortaya atılmıştı. Bu nedenle bu etkiye “Lorentz-Fitzgerald büzülmesi” adı da veriliyor. Bu bilim insanları, başka türden fiziksel olayları inceleyerek böyle bir kısalmanın olması gerektiğini iddia etmişlerdi.",
+                    "url":"",
+                    "image_url":""     
+                },
+                {
+                    "text":"Hareket eden cismin boyutlarındaki kısalma sadece hıza paralel doğrultu boyunca olur. Hıza dik doğrultularda uzunluklar hiçbir şekilde değişmez",
+                    "url":"",
+                    "image_url":""     
+                },
+                {
+                    "text":"Hız büyüdükçe, cisimler daha çok kısalır. Eğer bir roketin hızı, ışık hızının % 87’si civarına ulaşırsa, boyu da tam yarıya iner. Eğer roketin hızı, ışık hızının %99,5’i civarındaysa, boy da 10 kat kısalır. Hız, ışık hızına yaklaştıkça, kısalma oranı da sonsuza kadar büyümeye devam eder. Ancak, bu yüksek hızlara bugünkü teknolojimizle erişmemiz olanaksız.",
+                    "url":"",
+                    "image_url":""     
+                },
+                {
+                    "text":"Aracın içindekiler, görelilik ilkesiyle bağdaşır bir şekilde boydaki kısalmayı fark etmez. Çünkü, aracın içindeki her şeyin bu doğrultu boyunca uzunlukları aynı oranda kısalıyor. Araçtaki bütün cetveller de aynı şekilde kısaldığından, araçta bulunanların bu kısalmayı belirlemeleri mümkün değil.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+                
+            ]
+        
+        },
+
+        {
+            "questions":[
+                "göreli hiz hesap",
+                "göreli hiz"
+            ],
+            
+            "answers":[
+                {
+                    "text":"Görelilik kuramı, göreli hızları hesaplarken, hızların farkını almanın yeterli olmadığını, bunun yanlış bir işlem olduğunu söylüyor. Aslında, kamyonun otomobile göre hızını hesaplarken yanlış yapıyoruz. Fakat, doğru cevap ile bizim basit hesabımız arasındaki fark o kadar küçük ki, bu tip durumlarda ihmal edilmesi çok normal. Buna karşın, eğer gözlenen cismin hızı çok büyükse, örneğin ışık hızıyla karşılaştırılabilir mertebedeyse, o zaman bizim basit hesabımızdaki yanlışlık kendini açıkça göstermeye başlıyor.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "kütlesiz parçacik",
+                "kütle parçacık"
+            ],
+            
+            "answers":[
+                {
+                    "text":"Kütlesiz” olarak nitelendirilen parçacıklar vardır. Işık, veya kuantum dilinde ifade edersek fotonlar bu parçacıkların en bilinen örneği. Fotonlar dışında gravitonların da kütlesiz olduğu düşünülüyor.",
+                    "url":"",
+                    "image_url":""     
+                },
+                {
+                    "text":"Kütlesiz parçacıklar boşlukta her zaman ışık hızıyla yayılırlar. Dolayısıyla, bütün olası gözlemciler de bu parçacıkların bu sınır hızda yol aldığını görürler.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "işik hizinda hareket eden parçaciklar",
+                "işik hizi parçacik"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"Foton ve graviton gibi “kütlesiz” olarak nitelendirilen parçacıklar ışık hızında hareket eder. Bunun dışında, Dünya’nın değişik yerlerindeki çeşitli parçacık hızlandırıcılar, değişik türden parçacıkları oldukça büyük hızlara hızlandırabiliyorlar. Ama hiçbirinde bu parçacıklar ışık hızına erişemiyorlar. Örneğin, CERN’deki Büyük Hadron Çarpıştırıcısı’nda protonlar, ışık hızının, % 99,999999’una erişecek derecede hızlandırılabiliyorlar. Bu bile protonlar için bir üst sınır değil. İstenirse protonlar daha da hızlandırılabilir; ama hiçbir zaman ışık hızına erişemezler.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "zamanin yavaslamasi",
+                "zaman yavaslama",
+                "zaman yavaşlaması"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"Hareket eden cisimler içinde zaman daha yavaş geçer.  Bize göre hareket eden cisimler içindeki olaylar, bizim saatlerimize göre daha yavaş gelişir.",
+                    "url":"",
+                    "image_url":""     
+                },
+                {
+                    "text":"Hareket eden araç içindeki insanlar zamandaki yavaşlamayı fark etmezler. Çünkü araçtaki bütün saatler yavaşlamıştır. Atomik ve mekanik saatler, insanların hareketleri, kalp atışları, hücre bölünmesi gibi bütün fiziksel süreçler aynı oranda yavaşlar.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "isik hizi",
+                "isik hizi sabit mi",
+                "ışık hızı sabit"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"Einstein, özel görelilik kuramını ortaya atarken temel bir varsayım olarak ışığın bize göre hızının hep aynı olduğunu kabul etmişti. Yani, biz ne kadar hızlı gidersek gidelim, ışık bize göre hep aynı hızla yayılıyor. ",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "merhaba",
+                "selam",
+                "merhabalar"
+            ],
+            
+            "answers":[
+                {
+                    "text":"Merhaba",
+                    "url":"",
+                    "image_url":""     
+                },
+                {
+                    "text":"Selam",
+                    "url":"",
+                    "image_url":""     
+                },
+                {
+                    "text":"Hey ! Merhaba &#128512;",
+                    "url":"",
+                    "image_url":""     
+                },
+                {
+                    "text":"Merhaba ! Benimle konuştuğun için sevindim &#128512;",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "Nasilsin",
+                "nasil gidiyor",
+                "ne var ne yok",
+                "ne haber"
+            ],
+            
+            "answers":[
+                {
+                    "text":"Harikayım. Sen ?",
+                    "url":"",
+                    "image_url":""     
+                },
+                {
+                    "text":"Süper. Sen ? &#128512;",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "oradamisin",
+                "ordamisin",
+                "orada mısın",
+                "orda mısın"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"Tabiki evet. Ben hep buradayım &#128512;",
+                    "url":"",
+                    "image_url":""     
+                },
+                {
+                    "text":"Evet buradayım seni dinliyorum",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "kimsin",
+                "sen kimsin",
+                "insan mısın",
+                "insanmısın"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"Ben bir yapay zeka botuyum",
+                    "url":"",
+                    "image_url":""     
+                },
+                {
+                    "text":"Kısaca bana konuşma botu diyebilirsin",
+                    "url":"",
+                    "image_url":""     
+                },
+                {
+                    "text":"Benim amacım insanlara yardımcı olmak",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "sana bir soru sorabilir miyim",
+                "bir sorum var",
+                "bi sorum var",
+                "bir soru sorabilirmiyim",
+                "bir soru sorabilir miyim",
+                "bi soru sorabilir miyim",
+                "bi soru sorabilirmiyim",
+                "soru var"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"Modern fizikle ilgili merak ettiğin herşeyi çekinmeden bana sor",
+                    "url":"",
+                    "image_url":""     
+                },
+                {
+                    "text":"Sana nasıl yardımcı olabilirim",
+                    "url":"",
+                    "image_url":""     
+                },
+                {
+                    "text":"Harika ! Sorunu merakla bekliyorum",
+                    "url":"",
+                    "image_url":""     
+                },
+                {
+                    "text":"Tabiki sorabilirsin",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "çok iyisin",
+                "süpersin",
+                "aferin",
+                "bravo",
+                "çok akillisin",
+                "süper",
+                "harika",
+                "tebrikler",
+                "muhteşem",
+                "çok iyi"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"Benim amacım sana yardımcı olmak. Bunun için geliştirildim",
+                    "url":"",
+                    "image_url":""     
+                },
+                {
+                    "text":"Çok naziksin",
+                    "url":"",
+                    "image_url":""     
+                },
+                {
+                    "text":"Utandım &#128563;",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "iyiyim|",
+                "bende iyiyim",
+                "ben iyiyim",
+                "ben iyi",
+                "iyi sayılırım"
+            ],
+            
+            "answers":[
+                {
+                    "text":"Umarım herşey yolundadır &#128512;",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "kaç yasindasin",
+                "yasin kac",
+                "yaşını sorabilirmiyim",
+                "yaşını sorabilir miyim"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"Henüz bir kaç aylık &#128512;",
+                    "url":"",
+                    "image_url":""     
+                },
+                {
+                    "text":"Yaşımı söylemesem &#128512;",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "nerelisin",
+                "memleketin neresi"
+            ],
+            
+            "answers":[
+                {
+                    "text":"Internet &#128512;",
+                    "url":"",
+                    "image_url":""     
+                },
+                {
+                    "text":"Edirne'de, Trakya Üniversitesi'nde geliştirildim.",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        },
+        {
+            "questions":[
+                "yardim",
+                "yardima ihtiyacim var",
+                "nasil",
+                "bana yardım et"
+
+            ],
+            
+            "answers":[
+                {
+                    "text":"Merhaba. Benimle konuşurken yazabileceğin birkaç diyalog söylemek istiyorum, merhaba, nasılsın, adın ne, nerelisin, kaç yaşındasın, modern fizik nedir,görelilik nedir,ışık hızı,einstein kimdir",
+                    "url":"",
+                    "image_url":""     
+                }
+                
+                
+            ]
+        
+        }
+      
+    ]
+
+}
