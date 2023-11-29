@@ -1,31 +1,28 @@
-# hermes
+# Installing Hermes to Linux Server
 
-# hermes
-
-KURULUM:
-1) Python3 developer kütüphaneleri kurulmalı
+Step 1: Install Python3 developer libraries
 
    sudo apt-get install python3 python-dev python3-dev \
      build-essential libssl-dev libffi-dev \
      libxml2-dev libxslt1-dev zlib1g-dev \
 
-2) Apache kurulmalı
+Step 2: Install Apache Web Server
    
     sudo apt install apache2
 
-3) Apache için mod_wsgi kurulmalı
+Step 3: Install mod_wsgi for Apache
     
     sudo apt install libapache2-mod-wsgi-py3
 
-4) pip3 kurulmalı
+Step 4: Install pip3 
    
     sudo apt install python3-pip
 
-5) Git kurulmalı
+Step 5: Install Git
    
     sudo apt install git
 
-6) Flask ve gerekli eklentiler kurulmalı
+Step 6: Install Flask and extensions
     
     pip3 install flask
     pip3 install setuptools
@@ -35,21 +32,22 @@ KURULUM:
     pip3 install flask-cors
     pip3 install gunicorn
 
-7) Git ile kaynak kod klonlanmalı
+Step 7:  Clone the source code using Git 
 
-8) System Servisi oluşturulmalı ve çalıştırılmalı
-    8.1  Kaynak kodda yer alan "hermes.service" dosyasını /etc/systemd/system/ konumuna koy
-    8.2  Servis çalıştırılmalı
+Step 8:  Create Linux System Service and run
 
-        sudo systemctl start hermes.service
-        sudo systemctl enable hermes.service
+    8.1  Copy to "hermes.service" file in the source code to /etc/systemd/system/
+    8.2  Run Service
 
-    8.3 Durumu aşağıdaki komutla görülebilir
+	        sudo systemctl start hermes.service
+	        sudo systemctl enable hermes.service
+
+    8.3 Service status can be track the following command.
         sudo systemctl status flaskrest.service
 
-9) Apache sunucusu Proxy olarak kullanılmalı gelen istekler servise yönlendirilmeli
-    Not: Apache yerine nginx de kullanılabilir 
-    9.1 Apache default web sitesinin conf dosyası aşağıdaki gibi olmalı
+9) Apache server should be used as a proxy and incoming requests should be directed to the service.
+   Note: Nginx can also be used instead of Apache
+    9.1 The conf file of the Apache default website should be as follows
     
             <VirtualHost *:80>
 	            ServerAdmin root@ubuntu
@@ -63,20 +61,14 @@ KURULUM:
                 </Location>
             </VirtualHost>
     
-    9.2 Apache servisi yeniden başlatılmalı
+    9.2  Restart Apache service
 
         sudo service apache2 restart
 
 
-NOTLAR:
+NOTES:
 
-Bazı durumlarda hata veriyor ve aşağıdaki kodla spacy kurmak gerekebiliyor
-
-    python3 -m spacy download en
-
-Yazılımda güncelleme olduğunda servis yeniden başlatılmalı
+The service must be restarted when there is an update to the software
     
     systemctl restart hermes
 
-python3 -m spacy download en
-https://medium.com/@thishantha17/build-a-simple-python-rest-api-with-apache2-gunicorn-and-flask-on-ubuntu-18-04-c9d47639139b
