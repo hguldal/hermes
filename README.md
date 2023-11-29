@@ -1,1 +1,1 @@
-# hermes
+# Educational Chatbot Hermes
