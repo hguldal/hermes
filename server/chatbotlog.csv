@@ -1,8 +1,409 @@
-2021-10-23 22:51:38.752458|selam|Merhaba ! Benimle konuştuğun için sevindim &#128512;
-2021-10-23 22:52:32.203725|mrb|Selam
-2021-10-23 22:52:42.220512|nasılsın iyimisin|Merhaba. Benimle konuşurken yazabileceğin birkaç diyalog söylemek istiyorum, merhaba, nasılsın, adın ne, nerelisin, kaç yaşındasın, modern fizik nedir,görelilik nedir,ışık hızı,einstein kimdir
-2021-10-23 22:53:11.056383|nasılsın|Merhaba. Benimle konuşurken yazabileceğin birkaç diyalog söylemek istiyorum, merhaba, nasılsın, adın ne, nerelisin, kaç yaşındasın, modern fizik nedir,görelilik nedir,ışık hızı,einstein kimdir
-2021-10-23 22:53:20.371334|bende iyiyim|Umarım herşey yolundadır &#128512;
-2021-10-23 22:55:59.979883|nasılsın iyimisin|Merhaba. Benimle konuşurken yazabileceğin birkaç diyalog söylemek istiyorum, merhaba, nasılsın, adın ne, nerelisin, kaç yaşındasın, modern fizik nedir,görelilik nedir,ışık hızı,einstein kimdir
-2021-10-23 22:57:01.767335|nasılsın iyimisin|Harikayım. Sen ?
-2021-10-23 22:57:11.769308|bende iyiyim|Umarım herşey yolundadır &#128512;
+2021-10-23 23:01:50.954867|mrb|Hey ! Merhaba &#128512;
+2021-10-23 23:01:55.361641|nasılsın|Süper. Sen ? &#128512;
+2021-10-23 23:08:03.348769|mrb|Merhaba
+2021-10-23 23:08:23.147874|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:08:27.928985|mrb|Merhaba ! Benimle konuştuğun için sevindim &#128512;
+2021-10-23 23:10:36.894766|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:10:41.530726|mrb|Selam
+2021-10-23 23:13:34.750909|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:13:39.361742|mrb|Selam
+2021-10-23 23:14:08.696747|mrb|Merhaba
+2021-10-23 23:14:38.209987|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:14:42.793390|mrb|Selam
+2021-10-23 23:16:26.468174|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:16:31.190946|mrb|Selam
+2021-10-23 23:17:30.768930|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:17:35.346902|mrb|Merhaba ! Benimle konuştuğun için sevindim &#128512;
+2021-10-23 23:19:01.006922|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:19:05.860330|mrb|Selam
+2021-10-23 23:19:26.729409|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:19:30.960635|mrb|Merhaba
+2021-10-23 23:22:38.317995|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:22:43.254406|mrb|Merhaba ! Benimle konuştuğun için sevindim &#128512;
+2021-10-23 23:24:34.290124|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:24:38.611289|mrb|Selam
+2021-10-23 23:25:04.974983|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:25:11.205926|mrb|Merhaba ! Benimle konuştuğun için sevindim &#128512;
+2021-10-23 23:26:26.765591|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:26:31.691391|mrb|Merhaba
+2021-10-23 23:26:39.657383|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:26:43.751989|mrb|Selam
+2021-10-23 23:27:11.671199|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:27:16.264662|mrb|Hey ! Merhaba &#128512;
+2021-10-23 23:27:55.980631|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:28:00.914412|selam|Hey ! Merhaba &#128512;
+2021-10-23 23:28:45.189081|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:28:50.300351|mrb|Merhaba
+2021-10-23 23:29:47.743788|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:29:53.037275|mrb|Hey ! Merhaba &#128512;
+2021-10-23 23:36:57.601115|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:37:02.235041|mrb|Hey ! Merhaba &#128512;
+2021-10-23 23:39:25.560708|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:39:30.465625|mrb|Selam
+2021-10-23 23:40:23.654594|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:40:27.986607|mrb|Hey ! Merhaba &#128512;
+2021-10-23 23:42:30.938891|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:42:36.286099|mrb|Merhaba
+2021-10-23 23:43:07.954065|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:43:12.542468|mrb|Merhaba
+2021-10-23 23:43:49.883834|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:43:54.697323|mrb|Hey ! Merhaba &#128512;
+2021-10-23 23:45:01.592935|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:45:05.833652|mrb|Merhaba ! Benimle konuştuğun için sevindim &#128512;
+2021-10-23 23:46:24.303020|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:46:29.148682|mrb|Hey ! Merhaba &#128512;
+2021-10-23 23:54:40.441428|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:54:48.488905|mrb|Merhaba ! Benimle konuştuğun için sevindim &#128512;
+2021-10-23 23:55:02.648389|nasılsın|Harikayım. Sen ?
+2021-10-23 23:55:12.250980|bende iyiyim tesekkürler|Umarım herşey yolundadır &#128512;
+2021-10-23 23:59:35.363746|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-23 23:59:40.430777|mrb|Merhaba ! Benimle konuştuğun için sevindim &#128512;
+2021-10-24 00:00:07.809703|einstein kimdir|Ünlü bir fizikçi
+2021-10-24 00:00:44.118783|anştayn|1921 yılında ‘Kuramsal fiziğe verdiği hizmetler ve özellikle fotoelektrik etkiyi buluşu için’ kendisine Nobel Fizik Ödülü verilmiştir.
+2021-10-24 00:01:30.978901|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-24 00:01:38.402802|einstein|1921 yılında ‘Kuramsal fiziğe verdiği hizmetler ve özellikle fotoelektrik etkiyi buluşu için’ kendisine Nobel Fizik Ödülü verilmiştir.
+2021-10-24 00:02:00.767841|anştayn kimdir|e=mc2
+2021-10-24 00:02:15.148717|einstein kimdir|e=mc2
+2021-10-24 00:02:25.159547|einstein|1921 yılında ‘Kuramsal fiziğe verdiği hizmetler ve özellikle fotoelektrik etkiyi buluşu için’ kendisine Nobel Fizik Ödülü verilmiştir.
+2021-10-24 00:03:34.873948|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-24 00:03:40.340833|merhaba|Merhaba
+2021-10-24 00:03:51.603241|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-24 00:03:56.834982|merhaba|Selam
+2021-10-24 00:04:12.735869|einstein|1921 yılında ‘Kuramsal fiziğe verdiği hizmetler ve özellikle fotoelektrik etkiyi buluşu için’ kendisine Nobel Fizik Ödülü verilmiştir.
+2021-10-24 00:05:53.401886|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-24 00:05:58.552892|doppler|Doppler etkisi, adını ünlü bilim insanı ve matematikçi Christian Andreas Doppler'den almakta olup, kısaca dalga özelliği gösteren herhangi bir fiziksel varlığın frekans ve dalga boyu'nun hareketli bir gözlemci tarafından farklı zaman veya konumlarda farklı algılanması olayıdır.  Günlük hayatta buna her zaman tanık olmaktayız. Örneğin bir yolun kenarında beklerken bize yaklaşan taşıtların motorundan çıkan seslerin frekansının giderek arttığını duyarız. Araç yanımızdan geçip bizden uzaklaşmaya başladığındaysa frekans giderek azalır. Linkteki videoya gözatmanı tavsiye ederim https://www.youtube.com/watch?v=rbcvPEXiWWo 
+2021-10-24 00:06:09.992656|anştayn kimdir|Ünlü bir fizikçi
+2021-10-24 00:07:34.514422|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-24 00:07:41.420859|meraba|Hey ! Merhaba &#128512;
+2021-10-24 00:07:46.757129|nasılsın|Harikayım. Sen ?
+2021-10-24 00:07:53.200082|iyiyim bende|Umarım herşey yolundadır &#128512;
+2021-10-24 00:08:42.644988|mrb|Hey ! Merhaba &#128512;
+2021-10-24 00:08:48.720562|iyiyim|Umarım herşey yolundadır &#128512;
+2021-10-24 00:08:54.518137|bende iyiyim|Umarım herşey yolundadır &#128512;
+2021-10-24 00:09:01.161876|iyiyim bende|Umarım herşey yolundadır &#128512;
+2021-10-24 00:09:12.421437|takıldın|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-24 00:09:18.645853|yardım|Merhaba. Benimle konuşurken yazabileceğin birkaç diyalog söylemek istiyorum, merhaba, nasılsın, adın ne, nerelisin, kaç yaşındasın, modern fizik nedir,görelilik nedir,ışık hızı,einstein kimdir
+2021-10-24 00:09:26.592050|einstein kimdir|Einstein deyince aklıma hep E=mc2 formülü gelir.
+2021-10-24 00:09:48.047193|einstein kim|1921 yılında ‘Kuramsal fiziğe verdiği hizmetler ve özellikle fotoelektrik etkiyi buluşu için’ kendisine Nobel Fizik Ödülü verilmiştir.
+2021-10-24 11:35:51.516642|Mrb|Hey ! Merhaba &#128512;
+2021-10-24 20:56:14.631696|selam|Merhaba
+2021-10-24 20:56:20.279987|nasılsın|Harikayım. Sen ?
+2021-10-24 20:56:28.712052|bende iyiyim|Umarım herşey yolundadır &#128512;
+2021-10-24 20:56:47.026575|einstein kimdir biraz bilgi verirmisin|Kuramsal fiziğe verdiği hizmetler ve özellikle fotoelektrik etkiyi buluşu için  1921 yılında Nobel Fizik Ödülü alan ünlü fizikçi.
+2021-10-24 20:57:09.172695|einstein ne zaman nobel almıştır|1921 yılında ‘Kuramsal fiziğe verdiği hizmetler ve özellikle fotoelektrik etkiyi buluşu için’ kendisine Nobel Fizik Ödülü verilmiştir.
+2021-10-24 21:12:35.671453|mrb|Merhaba ! Benimle konuştuğun için sevindim &#128512;
+2021-10-24 21:12:59.476468|Meraba|Selam
+2021-10-24 21:13:07.888222|Nasilsin|Harikayım. Sen ?
+2021-10-24 21:13:15.405282|Bende iyiyim|Umarım herşey yolundadır &#128512;
+2021-10-24 21:13:29.043302|Einstein hakkinda bilgi verirmisim|Einstein deyince aklıma hep E=mc2 formülü gelir.
+2021-10-24 21:13:41.213971|Kimdir peki einstein|Dünyada, en çok tanınan bilim insanlarından biri
+2021-10-24 21:13:54.154500|Einstein|1921 yılında ‘Kuramsal fiziğe verdiği hizmetler ve özellikle fotoelektrik etkiyi buluşu için’ kendisine Nobel Fizik Ödülü verilmiştir.
+2021-10-25 09:49:03.976258|slm|Merhaba
+2021-10-25 23:51:50.910863|slm|Selam
+2021-10-25 23:52:07.339982|nasılsın|Harikayım. Sen ?
+2021-10-25 23:52:17.332387|iyiyim|Umarım herşey yolundadır &#128512;
+2021-10-25 23:52:24.403764|sen kimsin|Benim amacım insanlara yardımcı olmak
+2021-10-25 23:52:33.942587|insanmısın|Ben bir yapay zeka botuyum
+2021-10-25 23:53:37.847803|einstein kimdir|Dünyada, en çok tanınan bilim insanlarından biri
+2021-10-25 23:53:49.915627|doppler nedir|Doppler etkisi, adını ünlü bilim insanı ve matematikçi Christian Andreas Doppler'den almakta olup, kısaca dalga özelliği gösteren herhangi bir fiziksel varlığın frekans ve dalga boyu'nun hareketli bir gözlemci tarafından farklı zaman veya konumlarda farklı algılanması olayıdır.  Günlük hayatta buna her zaman tanık olmaktayız. Örneğin bir yolun kenarında beklerken bize yaklaşan taşıtların motorundan çıkan seslerin frekansının giderek arttığını duyarız. Araç yanımızdan geçip bizden uzaklaşmaya başladığındaysa frekans giderek azalır. Linkteki videoya gözatmanı tavsiye ederim https://www.youtube.com/watch?v=rbcvPEXiWWo 
+2021-10-25 23:54:05.309095|ilginç|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-25 23:54:14.528096|yardım|Merhaba. Benimle konuşurken yazabileceğin birkaç diyalog söylemek istiyorum, merhaba, nasılsın, adın ne, nerelisin, kaç yaşındasın, modern fizik nedir,görelilik nedir,ışık hızı,einstein kimdir
+2021-10-25 23:54:22.063720|nerelisin|Internet &#128512;
+2021-10-25 23:54:33.977416|kaç yaşındasın sen|Yaşımı söylemesem &#128512;
+2021-10-25 23:54:44.318226|ışık hızı|Einstein, özel görelilik kuramını ortaya atarken temel bir varsayım olarak ışığın bize göre hızının hep aynı olduğunu kabul etmişti. Yani, biz ne kadar hızlı gidersek gidelim, ışık bize göre hep aynı hızla yayılıyor. 
+2021-10-25 23:55:11.116300|görelilik nedir|Görelilik, bir fiziksel büyüklüğün farklı gözlemcilerce ölçülen değerleri arasındaki ilişkiyi belirler.
+2021-10-26 22:10:32.747956|slm|Merhaba ! Benimle konuştuğun için sevindim &#128512;
+2021-10-29 11:01:49.716181|Slm|Merhaba ! Benimle konuştuğun için sevindim &#128512;
+2021-10-31 20:10:07.922218|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-31 20:10:21.900720|slm|Merhaba ! Benimle konuştuğun için sevindim &#128512;
+2021-10-31 20:11:10.441073|yarrdım|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-31 20:11:15.529383|yardım|Merhaba. Benimle konuşurken yazabileceğin birkaç diyalog söylemek istiyorum, merhaba, nasılsın, adın ne, nerelisin, kaç yaşındasın, modern fizik nedir,görelilik nedir,ışık hızı,einstein kimdir
+2021-10-31 20:11:22.713453|nerelisin|Edirne'de, Trakya Üniversitesi'nde geliştirildim.
+2021-10-31 20:11:39.028664|ışık hızı|Einstein, özel görelilik kuramını ortaya atarken temel bir varsayım olarak ışığın bize göre hızının hep aynı olduğunu kabul etmişti. Yani, biz ne kadar hızlı gidersek gidelim, ışık bize göre hep aynı hızla yayılıyor. 
+2021-10-31 20:11:39.431514|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-31 20:11:47.977319|İvme|Şu an için sadece modern fizikle ilgili konuları biliyorum &#129300; Ama kendimi sürekli geliştiriyorum  &#128512;
+2021-10-31 20:11:48.130039|ışık hızı|Einstein, özel görelilik kuramını ortaya atarken temel bir varsayım olarak ışığın bize göre hızının hep aynı olduğunu kabul etmişti. Yani, biz ne kadar hızlı gidersek gidelim, ışık bize göre hep aynı hızla yayılıyor. 
+2021-10-31 20:11:56.861389|Uzay|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-31 20:11:58.451412|einstein kimdir|Ünlü bir fizikçi
+2021-10-31 20:12:08.522902|Işınlqnma|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-31 20:12:09.993638|adın nedir|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-31 20:12:15.449109|adın ne|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-31 20:12:17.543322|Yapay zeka|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-31 20:12:23.562196|ismin ne|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-31 20:12:33.202085|Atom|Yunan atom teorisi Miletli LEUCIPPUS (M.Ö. 430 tahminen) ve bilhassa talebesi DEMOCRITUS (M.Ö. 470-400 tahminen) tarafindan kurulmus, Sisamli EPICURUS (M.Ö. 306) ve antikitenin en dikkate deger materyalist sistemiyle De Natura Rerum'un (esyanin mahiyeti hakkinda) müellifi Lâtin sair ve fizikçisi LUCRETIUS (M.Ö. 90-95) tarafindan devam ettirilmistir. Bunlara göre madde ancak bir dereceye kadar bölünebilir. Artik bölünmesi mümkün olmayan son bölünme kismina da Epikurus, Yunancada bölünemez anlamina gelen Atomos'dan Atom adini vermistir. Atomlar sert ve doludurlar. Bir cisim bunlarin birlesmesi ile vücut bulur, ayrilmasa ile de mahvolur. Atom kavramı ilk kez Yunanistan’ın İskeçe şehrine bağlı bir sahil kasabası olan Abdera’da ortaya atılmıştır. Haritadan bakmanızı tavsiye ederim.
+2021-10-31 20:12:36.130633|kaç yaşındasın|Henüz bir kaç aylık &#128512;
+2021-10-31 20:12:54.407879|Tanecik|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-31 20:16:16.874793|doppler|Doppler etkisi, adını ünlü bilim insanı ve matematikçi Christian Andreas Doppler'den almakta olup, kısaca dalga özelliği gösteren herhangi bir fiziksel varlığın frekans ve dalga boyu'nun hareketli bir gözlemci tarafından farklı zaman veya konumlarda farklı algılanması olayıdır.  Günlük hayatta buna her zaman tanık olmaktayız. Örneğin bir yolun kenarında beklerken bize yaklaşan taşıtların motorundan çıkan seslerin frekansının giderek arttığını duyarız. Araç yanımızdan geçip bizden uzaklaşmaya başladığındaysa frekans giderek azalır. Linkteki videoya gözatmanı tavsiye ederim https://www.youtube.com/watch?v=rbcvPEXiWWo 
+2021-10-31 20:58:53.611606|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-31 20:59:07.261909|merhaba|Selam
+2021-10-31 20:59:35.389426|selam|Merhaba
+2021-10-31 21:00:55.478095|ne haber|Süper. Sen ? &#128512;
+2021-10-31 21:07:28.512244|ben  iyiyim|Umarım herşey yolundadır &#128512;
+2021-10-31 21:09:53.432491|lale ne|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-31 21:12:55.327140|ela     ne|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-10-31 21:14:58.972053|hakan     ne|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-11-01 13:14:35.317412|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-11-10 21:59:27.438823|merhaba|Merhaba ! Benimle konuştuğun için sevindim &#128512;
+2021-11-22 10:31:32.508802|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-11-22 10:31:37.340431|Meraba|Hey ! Merhaba &#128512;
+2021-11-30 12:12:53.042678|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-11-30 12:13:04.219772|merhaba|Merhaba
+2021-11-30 12:13:10.211296|nasılsın|Harikayım. Sen ?
+2021-11-30 12:13:15.604173|bende iyi|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-11-30 12:13:22.960248|bende iyiyim|Umarım herşey yolundadır &#128512;
+2021-12-02 12:36:49.960559|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:36:56.203263|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:37:17.172992|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:37:30.291035|Modern fizik|Modern fizik, günlük yaşamımızda haşır neşir olduğumuz cisimlerin gözle görülemeyecek kadar küçük parçalarıyla (atomik boyutlarla 10−9 m civarı) ya da günlük hızların binlerce kat fazlasıyla (ışık hızına yakın hızlarla 108 ms civarı) uğraşır.Başlıca konuları görelilik, kara cisim ışıması, fotoelektrik etki, atom modelleri, Compton olayı, Stern-Gerlach deneyi, dalga-parçacık ikiliği sayılabilir.
+2021-12-02 12:37:48.672222|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:38:24.316013|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:38:24.600979|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:38:26.082521|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:38:50.084722|Merhaba|Merhaba ! Benimle konuştuğun için sevindim &#128512;
+2021-12-02 12:38:50.601050|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:38:52.764401|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:38:54.718779|Merhaba|Merhaba
+2021-12-02 12:38:57.004053|Einstein|1921 yılında ‘Kuramsal fiziğe verdiği hizmetler ve özellikle fotoelektrik etkiyi buluşu için’ kendisine Nobel Fizik Ödülü verilmiştir.
+2021-12-02 12:38:58.241847|Einstein kimdir|Einstein deyince aklıma hep E=mc2 formülü gelir.
+2021-12-02 12:39:00.418648|Einstein kimdir|Kuramsal fiziğe verdiği hizmetler ve özellikle fotoelektrik etkiyi buluşu için  1921 yılında Nobel Fizik Ödülü alan ünlü fizikçi.
+2021-12-02 12:39:10.334462|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:39:12.281815|Fizik|Klasik fizik ile tanımlanamayan olayları açıklamak üzere ortaya atılmış teorilerin tümüne modern fizik adı verilir. Atom ve atom altı parçacıklardan oluşan mikro evrendeki parçacıkların ve ışık hızına yakın hızlarda hareket eden cisimlerin hareket ve davranışlarını açıklamaya çalışır.
+2021-12-02 12:39:12.677519|Modern fizik nedir|Modern fizik, günlük yaşamımızda haşır neşir olduğumuz cisimlerin gözle görülemeyecek kadar küçük parçalarıyla (atomik boyutlarla 10−9 m civarı) ya da günlük hızların binlerce kat fazlasıyla (ışık hızına yakın hızlarla 108 ms civarı) uğraşır.Başlıca konuları görelilik, kara cisim ışıması, fotoelektrik etki, atom modelleri, Compton olayı, Stern-Gerlach deneyi, dalga-parçacık ikiliği sayılabilir.
+2021-12-02 12:39:19.124171|Merhaba|Merhaba ! Benimle konuştuğun için sevindim &#128512;
+2021-12-02 12:39:25.540910|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:39:29.218264|Eınsteın kimdir ?|Dünyada, en çok tanınan bilim insanlarından biri
+2021-12-02 12:39:32.181846|Bende sevindim|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:39:32.426383|Einstein kimdir|Einstein deyince aklıma hep E=mc2 formülü gelir.
+2021-12-02 12:39:37.438875|Modern fizik nedir|Modern fizik, günlük yaşamımızda haşır neşir olduğumuz cisimlerin gözle görülemeyecek kadar küçük parçalarıyla (atomik boyutlarla 10−9 m civarı) ya da günlük hızların binlerce kat fazlasıyla (ışık hızına yakın hızlarla 108 ms civarı) uğraşır.Başlıca konuları görelilik, kara cisim ışıması, fotoelektrik etki, atom modelleri, Compton olayı, Stern-Gerlach deneyi, dalga-parçacık ikiliği sayılabilir.
+2021-12-02 12:39:40.067706|Compton olayı nedir|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:39:40.168886|Modern fizik nedir|Modern fizik, günlük yaşamımızda haşır neşir olduğumuz cisimlerin gözle görülemeyecek kadar küçük parçalarıyla (atomik boyutlarla 10−9 m civarı) ya da günlük hızların binlerce kat fazlasıyla (ışık hızına yakın hızlarla 108 ms civarı) uğraşır.Başlıca konuları görelilik, kara cisim ışıması, fotoelektrik etki, atom modelleri, Compton olayı, Stern-Gerlach deneyi, dalga-parçacık ikiliği sayılabilir.
+2021-12-02 12:39:40.577275|Rossi Hall deneyi|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:39:42.010033||Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:39:42.162961|Modern fizik nedir|Modern fizik, günlük yaşamımızda haşır neşir olduğumuz cisimlerin gözle görülemeyecek kadar küçük parçalarıyla (atomik boyutlarla 10−9 m civarı) ya da günlük hızların binlerce kat fazlasıyla (ışık hızına yakın hızlarla 108 ms civarı) uğraşır.Başlıca konuları görelilik, kara cisim ışıması, fotoelektrik etki, atom modelleri, Compton olayı, Stern-Gerlach deneyi, dalga-parçacık ikiliği sayılabilir.
+2021-12-02 12:39:42.377848|modern fizik nedir|Modern fizik, günlük yaşamımızda haşır neşir olduğumuz cisimlerin gözle görülemeyecek kadar küçük parçalarıyla (atomik boyutlarla 10−9 m civarı) ya da günlük hızların binlerce kat fazlasıyla (ışık hızına yakın hızlarla 108 ms civarı) uğraşır.Başlıca konuları görelilik, kara cisim ışıması, fotoelektrik etki, atom modelleri, Compton olayı, Stern-Gerlach deneyi, dalga-parçacık ikiliği sayılabilir.
+2021-12-02 12:39:46.750260|Modern Fizik nedir ?|Modern fizik, günlük yaşamımızda haşır neşir olduğumuz cisimlerin gözle görülemeyecek kadar küçük parçalarıyla (atomik boyutlarla 10−9 m civarı) ya da günlük hızların binlerce kat fazlasıyla (ışık hızına yakın hızlarla 108 ms civarı) uğraşır.Başlıca konuları görelilik, kara cisim ışıması, fotoelektrik etki, atom modelleri, Compton olayı, Stern-Gerlach deneyi, dalga-parçacık ikiliği sayılabilir.
+2021-12-02 12:39:47.419245|Işık|Einstein, özel görelilik kuramını ortaya atarken temel bir varsayım olarak ışığın bize göre hızının hep aynı olduğunu kabul etmişti. Yani, biz ne kadar hızlı gidersek gidelim, ışık bize göre hep aynı hızla yayılıyor. 
+2021-12-02 12:39:53.797181|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:39:53.809645||Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:40:02.594834|Einstein kimdir?|Einstein deyince aklıma hep E=mc2 formülü gelir.
+2021-12-02 12:40:04.312238|Compton olayı|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:40:07.319375|?|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:40:07.547536|merhaba|Hey ! Merhaba &#128512;
+2021-12-02 12:40:10.248539|Compton|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:40:13.540487|nasılsın|Harikayım. Sen ?
+2021-12-02 12:40:22.311021|İkizler Paradoksu|Özel görelilik kuramı, zamanın mutlak olmadığını, farklı gözlemciler için farklı hızlarla aktığını söyler. İkizler paradoksu, bu durum ile ilişkilendirilen bir düşünce deneyidir. İkizler paradoksunu anlamak için öncelikle Einstein’ın 1911 yılında yazdığı şu satırlara göz atalım: Bir kutunun içine canlı bir organizma yerleştirmişsek... Öyle bir ayarlama yapılabilir ki, keyfi derecede uzun bir yolculuktan sonra organizma neredeyse hiç değişmemiş bir şekilde başlangıç yerine geri dönebilir. Ancak bu sırada başlangıç noktasında duran organizmalardan yeni nesiller üremiş olacaktır. Eğer yolculuk neredeyse ışık hızıyla yapılmışsa, hareket eden organizma için tüm yolculuk çok kısa sürecektir. Dolayısıyla eğer durağan organizma bir insan, yolculuk yapan organizmaysa onun ikiziyse, zaman, yolculuk yapan kardeş için daha yavaş akacak ve geri döndüğünde kardeşini kendisinden çok daha fazla yaşlanmış bulacaktır.
+2021-12-02 12:40:22.540899|ben de iyiyim|Umarım herşey yolundadır &#128512;
+2021-12-02 12:40:29.857273|yolunda...|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:40:32.221337|Stern-gerlach|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:40:32.583870|Stern-gerlach|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:40:32.987758||Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:40:37.825473|Özel görelilik nedir?|Bir cismin kütlesi, cismin durağan halde olduğu bir referans sisteminde ölçüldüğü enerjisidir. Diğer bir ifadeyle cismin durağan haldeyken sahip olduğu enerjisidir.
+2021-12-02 12:40:38.121995|Yardim|Merhaba. Benimle konuşurken yazabileceğin birkaç diyalog söylemek istiyorum, merhaba, nasılsın, adın ne, nerelisin, kaç yaşındasın, modern fizik nedir,görelilik nedir,ışık hızı,einstein kimdir
+2021-12-02 12:40:40.812278|yardım|Merhaba. Benimle konuşurken yazabileceğin birkaç diyalog söylemek istiyorum, merhaba, nasılsın, adın ne, nerelisin, kaç yaşındasın, modern fizik nedir,görelilik nedir,ışık hızı,einstein kimdir
+2021-12-02 12:40:41.761490|Yardım|Merhaba. Benimle konuşurken yazabileceğin birkaç diyalog söylemek istiyorum, merhaba, nasılsın, adın ne, nerelisin, kaç yaşındasın, modern fizik nedir,görelilik nedir,ışık hızı,einstein kimdir
+2021-12-02 12:40:42.543009|Yardım|Merhaba. Benimle konuşurken yazabileceğin birkaç diyalog söylemek istiyorum, merhaba, nasılsın, adın ne, nerelisin, kaç yaşındasın, modern fizik nedir,görelilik nedir,ışık hızı,einstein kimdir
+2021-12-02 12:40:43.537144||Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:40:45.396299|Yardım|Merhaba. Benimle konuşurken yazabileceğin birkaç diyalog söylemek istiyorum, merhaba, nasılsın, adın ne, nerelisin, kaç yaşındasın, modern fizik nedir,görelilik nedir,ışık hızı,einstein kimdir
+2021-12-02 12:40:52.778425|Yardım|Merhaba. Benimle konuşurken yazabileceğin birkaç diyalog söylemek istiyorum, merhaba, nasılsın, adın ne, nerelisin, kaç yaşındasın, modern fizik nedir,görelilik nedir,ışık hızı,einstein kimdir
+2021-12-02 12:40:54.424326|kaç yaşındasın|Yaşımı söylemesem &#128512;
+2021-12-02 12:40:54.826891|Işık hızı|Einstein, özel görelilik kuramını ortaya atarken temel bir varsayım olarak ışığın bize göre hızının hep aynı olduğunu kabul etmişti. Yani, biz ne kadar hızlı gidersek gidelim, ışık bize göre hep aynı hızla yayılıyor. 
+2021-12-02 12:41:03.634678|adın ne|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:41:04.810675|Adın ne|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:41:07.200196|Işık hızı|Einstein, özel görelilik kuramını ortaya atarken temel bir varsayım olarak ışığın bize göre hızının hep aynı olduğunu kabul etmişti. Yani, biz ne kadar hızlı gidersek gidelim, ışık bize göre hep aynı hızla yayılıyor. 
+2021-12-02 12:41:09.009292|Kütlede görelilik|Görelilik, bir fiziksel büyüklüğün farklı gözlemcilerce ölçülen değerleri arasındaki ilişkiyi belirler.
+2021-12-02 12:41:17.538889|ismin ne|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:41:30.432941|adın ne|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:41:52.099618|Nasılsın ?|Harikayım. Sen ?
+2021-12-02 12:41:59.520035|Adınız nedir|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:41:59.558929|Adın nedir?|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:41:59.741512|Adın nedir?|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:42:01.616207|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:42:03.943499|Adın ne|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:42:08.055658|Adın ne|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:42:08.420951|merhaba adın nedir|Hey ! Merhaba &#128512;
+2021-12-02 12:42:12.257431|adın nedir|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:42:15.356437|İsmin ne ?|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:42:15.606830|Adın ne|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:42:16.939547|adın ne?|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:42:22.090312|Adın ne?|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:42:29.528028|Nerelisin ?|Internet &#128512;
+2021-12-02 12:42:31.434363|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:42:35.963395|Adın|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:42:41.373567|İsmin|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:42:46.103853|İsmin ne|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:42:49.014184|Nerelisin|Edirne'de, Trakya Üniversitesi'nde geliştirildim.
+2021-12-02 12:42:53.804260|İsmini öğrenebilir miyim|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:43:02.129297|Özel görelik nedir ? Ne işe yarar?|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:43:03.305098|Kendini tanıtır mısın|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:43:10.198990|Özel görelik nedir|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:43:10.535130|Nasılsın|Süper. Sen ? &#128512;
+2021-12-02 12:43:16.891988|Bende iyiyim|Umarım herşey yolundadır &#128512;
+2021-12-02 12:43:26.916761|Özel görelilik nedir ?|Özel görelilik kuramından elde edilen bütün sonuçların etkileri, gündelik hayatımızda fark edemeyeceğimiz kadar küçük. Ancak çok büyük hızlar veya enerjiler söz konusu olduğunda, bu kuramın öngördüğü etkiler belirgin hale geliyor.
+2021-12-02 12:43:59.304068|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:44:01.097265|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:44:08.890756|Kaç yaşındasın|Henüz bir kaç aylık &#128512;
+2021-12-02 12:44:14.435734|Sizin adınız nedir?|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:44:24.453284|Yardım|Merhaba. Benimle konuşurken yazabileceğin birkaç diyalog söylemek istiyorum, merhaba, nasılsın, adın ne, nerelisin, kaç yaşındasın, modern fizik nedir,görelilik nedir,ışık hızı,einstein kimdir
+2021-12-02 12:44:35.749238|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:44:40.992590|Adın ne?|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:44:45.704273|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:44:55.757443|Adın ne?|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:45:53.728679|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:46:19.261321|adın ne|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:46:25.106058|yardım|Merhaba. Benimle konuşurken yazabileceğin birkaç diyalog söylemek istiyorum, merhaba, nasılsın, adın ne, nerelisin, kaç yaşındasın, modern fizik nedir,görelilik nedir,ışık hızı,einstein kimdir
+2021-12-02 12:46:37.468580|ışık hızı|Einstein, özel görelilik kuramını ortaya atarken temel bir varsayım olarak ışığın bize göre hızının hep aynı olduğunu kabul etmişti. Yani, biz ne kadar hızlı gidersek gidelim, ışık bize göre hep aynı hızla yayılıyor. 
+2021-12-02 12:52:14.801623|Adin nedir|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:52:15.787201||Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 12:52:27.128445|Adın|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:43:39.730131|Modern fizik nedir|Modern fizik, günlük yaşamımızda haşır neşir olduğumuz cisimlerin gözle görülemeyecek kadar küçük parçalarıyla (atomik boyutlarla 10−9 m civarı) ya da günlük hızların binlerce kat fazlasıyla (ışık hızına yakın hızlarla 108 ms civarı) uğraşır.Başlıca konuları görelilik, kara cisim ışıması, fotoelektrik etki, atom modelleri, Compton olayı, Stern-Gerlach deneyi, dalga-parçacık ikiliği sayılabilir.
+2021-12-02 13:43:51.697321|Selam|Hey ! Merhaba &#128512;
+2021-12-02 13:44:04.274709|Nasılsın|Harikayım. Sen ?
+2021-12-02 13:44:19.641600|İşler nasıl|Merhaba. Benimle konuşurken yazabileceğin birkaç diyalog söylemek istiyorum, merhaba, nasılsın, adın ne, nerelisin, kaç yaşındasın, modern fizik nedir,görelilik nedir,ışık hızı,einstein kimdir
+2021-12-02 13:44:29.112401|Adın ne|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:44:44.122908|Nerelisin|Edirne'de, Trakya Üniversitesi'nde geliştirildim.
+2021-12-02 13:44:56.410636|Kaç yaşındasın|Yaşımı söylemesem &#128512;
+2021-12-02 13:45:06.138912|Ben 19|Umarım herşey yolundadır &#128512;
+2021-12-02 13:45:18.026061|Hiçbir şey yolunda değil|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:57:03.350091|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:57:09.146488|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:57:15.539253|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:57:16.162594|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:57:18.564013|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:57:18.659410|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:57:21.248166|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:57:26.825945|Merhaba|Merhaba ! Benimle konuştuğun için sevindim &#128512;
+2021-12-02 13:57:28.927548|Merhaba|Merhaba
+2021-12-02 13:57:28.996101|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:57:29.894648|merhaba|Hey ! Merhaba &#128512;
+2021-12-02 13:57:30.480431|Hello|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:57:35.390143|merhaba|Merhaba ! Benimle konuştuğun için sevindim &#128512;
+2021-12-02 13:57:35.540058|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:57:40.464343|merhaba|Selam
+2021-12-02 13:57:41.146396|Einstein kimdir|Ünlü bir fizikçi
+2021-12-02 13:57:41.138249|Einstein kimdir|Einstein deyince aklıma hep E=mc2 formülü gelir.
+2021-12-02 13:57:41.756697|Einstein kimdir|e=mc2
+2021-12-02 13:57:42.289423|Einstein kimdir|Kuramsal fiziğe verdiği hizmetler ve özellikle fotoelektrik etkiyi buluşu için  1921 yılında Nobel Fizik Ödülü alan ünlü fizikçi.
+2021-12-02 13:57:42.431937|Einstein kimdir|Ünlü bir fizikçi
+2021-12-02 13:57:44.223723|Einstein kimdir|e=mc2
+2021-12-02 13:57:45.339650|Merhaba|Selam
+2021-12-02 13:57:46.426593|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:57:51.442158|Merceklee|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:57:53.602998|einstein kimdir|Ünlü bir fizikçi
+2021-12-02 13:57:54.725461|einstein kimdir|Einstein deyince aklıma hep E=mc2 formülü gelir.
+2021-12-02 13:57:56.429664|Mercekler|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:58:00.043639|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:58:06.027072|Selam genç|Hey ! Merhaba &#128512;
+2021-12-02 13:58:06.044375|Özel görelilik teorisi|Özel görelilik kuramından elde edilen bütün sonuçların etkileri, gündelik hayatımızda fark edemeyeceğimiz kadar küçük. Ancak çok büyük hızlar veya enerjiler söz konusu olduğunda, bu kuramın öngördüğü etkiler belirgin hale geliyor.
+2021-12-02 13:58:06.375343|Işınım nedir|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:58:09.940621|konular ne|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:58:12.181376|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:58:12.287379|Görelilik|Aracın içindekiler, görelilik ilkesiyle bağdaşır bir şekilde boydaki kısalmayı fark etmez. Çünkü, aracın içindeki her şeyin bu doğrultu boyunca uzunlukları aynı oranda kısalıyor. Araçtaki bütün cetveller de aynı şekilde kısaldığından, araçta bulunanların bu kısalmayı belirlemeleri mümkün değil.
+2021-12-02 13:58:12.572971|görelilik ne demek|Görelilik, bir fiziksel büyüklüğün farklı gözlemcilerce ölçülen değerleri arasındaki ilişkiyi belirler.
+2021-12-02 13:58:13.785492|Görelilik|Aracın içindekiler, görelilik ilkesiyle bağdaşır bir şekilde boydaki kısalmayı fark etmez. Çünkü, aracın içindeki her şeyin bu doğrultu boyunca uzunlukları aynı oranda kısalıyor. Araçtaki bütün cetveller de aynı şekilde kısaldığından, araçta bulunanların bu kısalmayı belirlemeleri mümkün değil.
+2021-12-02 13:58:13.925488|Görelilik nedir|Görelilik, bir fiziksel büyüklüğün farklı gözlemcilerce ölçülen değerleri arasındaki ilişkiyi belirler.
+2021-12-02 13:58:13.976384|Görelilik nedir|Görelilik, bir fiziksel büyüklüğün farklı gözlemcilerce ölçülen değerleri arasındaki ilişkiyi belirler.
+2021-12-02 13:58:14.542616|Görelelik nedir|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:58:15.863330|görelilik ne demek|Görelilik, bir fiziksel büyüklüğün farklı gözlemcilerce ölçülen değerleri arasındaki ilişkiyi belirler.
+2021-12-02 13:58:17.511206|Özel görelelik nedir|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:58:17.981177|görelilik|Hareket eden cismin boyutlarındaki kısalma sadece hıza paralel doğrultu boyunca olur. Hıza dik doğrultularda uzunluklar hiçbir şekilde değişmez
+2021-12-02 13:58:25.137311|Özel görelilik|Özel görelilik kuramından elde edilen bütün sonuçların etkileri, gündelik hayatımızda fark edemeyeceğimiz kadar küçük. Ancak çok büyük hızlar veya enerjiler söz konusu olduğunda, bu kuramın öngördüğü etkiler belirgin hale geliyor.
+2021-12-02 13:58:27.270074|Özel görelilik nedir|Bir cismin kütlesi, cismin durağan halde olduğu bir referans sisteminde ölçüldüğü enerjisidir. Diğer bir ifadeyle cismin durağan haldeyken sahip olduğu enerjisidir.
+2021-12-02 13:58:27.619515|Mercekler|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:58:28.158737|Özel görelilik|Özel görelilik kuramından elde edilen bütün sonuçların etkileri, gündelik hayatımızda fark edemeyeceğimiz kadar küçük. Ancak çok büyük hızlar veya enerjiler söz konusu olduğunda, bu kuramın öngördüğü etkiler belirgin hale geliyor.
+2021-12-02 13:58:28.549110|Görelelik ne demek|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:58:30.754131|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:58:31.011049|özel görelilik nedir|Özel görelilik kuramından elde edilen bütün sonuçların etkileri, gündelik hayatımızda fark edemeyeceğimiz kadar küçük. Ancak çok büyük hızlar veya enerjiler söz konusu olduğunda, bu kuramın öngördüğü etkiler belirgin hale geliyor.
+2021-12-02 13:58:31.215339|boyut ne|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:58:37.907900|boyut nedir|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:58:38.547961|Epiktetos kimdir genç|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:58:40.217211|Girişim|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:58:41.082246|Görelilik|Uzunluk büzülmesi adı verilen bir durumun varlığı aslında Einstein’dan birkaç yıl önce birbirlerinden bağımsız çalışan iki bilim insanı, Hollandalı Hendrik Lorentz ve İrlandalı George Fitzgerald tarafından da ortaya atılmıştı. Bu nedenle bu etkiye “Lorentz-Fitzgerald büzülmesi” adı da veriliyor. Bu bilim insanları, başka türden fiziksel olayları inceleyerek böyle bir kısalmanın olması gerektiğini iddia etmişlerdi.
+2021-12-02 13:58:45.207654|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:58:46.278100|Einstein kimdir|Dünyada, en çok tanınan bilim insanlarından biri
+2021-12-02 13:58:48.503836|Girişim  deneyi|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:58:49.550731|F=m.a nedir|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:58:51.167094|Selam|Merhaba ! Benimle konuştuğun için sevindim &#128512;
+2021-12-02 13:58:51.457905|Stocilik nedir genc|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:59:03.694768|Kırgınım  deneyi|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:59:04.371877|Naber|Süper. Sen ? &#128512;
+2021-12-02 13:59:05.904082|Özel gereklilik nedir bilir misin?|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:59:14.759341|Nasilsin6|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:59:15.528159|İyi ben de nasıl gidiyor|Umarım herşey yolundadır &#128512;
+2021-12-02 13:59:20.737118|Modern fizik|Modern fizik, günlük yaşamımızda haşır neşir olduğumuz cisimlerin gözle görülemeyecek kadar küçük parçalarıyla (atomik boyutlarla 10−9 m civarı) ya da günlük hızların binlerce kat fazlasıyla (ışık hızına yakın hızlarla 108 ms civarı) uğraşır.Başlıca konuları görelilik, kara cisim ışıması, fotoelektrik etki, atom modelleri, Compton olayı, Stern-Gerlach deneyi, dalga-parçacık ikiliği sayılabilir.
+2021-12-02 13:59:31.677528|Yardım|Merhaba. Benimle konuşurken yazabileceğin birkaç diyalog söylemek istiyorum, merhaba, nasılsın, adın ne, nerelisin, kaç yaşındasın, modern fizik nedir,görelilik nedir,ışık hızı,einstein kimdir
+2021-12-02 13:59:33.921359|Yoğunluk formülü nedir|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 13:59:42.615304|Işık hızı|Einstein, özel görelilik kuramını ortaya atarken temel bir varsayım olarak ışığın bize göre hızının hep aynı olduğunu kabul etmişti. Yani, biz ne kadar hızlı gidersek gidelim, ışık bize göre hep aynı hızla yayılıyor. 
+2021-12-02 13:59:47.175861|Işık hızı|Einstein, özel görelilik kuramını ortaya atarken temel bir varsayım olarak ışığın bize göre hızının hep aynı olduğunu kabul etmişti. Yani, biz ne kadar hızlı gidersek gidelim, ışık bize göre hep aynı hızla yayılıyor. 
+2021-12-02 13:59:59.095447|Işık hızı nedir|Einstein, özel görelilik kuramını ortaya atarken temel bir varsayım olarak ışığın bize göre hızının hep aynı olduğunu kabul etmişti. Yani, biz ne kadar hızlı gidersek gidelim, ışık bize göre hep aynı hızla yayılıyor. 
+2021-12-02 14:00:02.800499|Işık hızı ne kadar|Einstein, özel görelilik kuramını ortaya atarken temel bir varsayım olarak ışığın bize göre hızının hep aynı olduğunu kabul etmişti. Yani, biz ne kadar hızlı gidersek gidelim, ışık bize göre hep aynı hızla yayılıyor. 
+2021-12-02 14:00:22.149807|Mercekler|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 15:21:22.134839|Merhaba|Hey ! Merhaba &#128512;
+2021-12-02 15:21:26.748580|Adın ne|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 15:21:35.538953|İsmin ne|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 15:21:41.350171|Ne haber|Harikayım. Sen ?
+2021-12-02 15:21:46.106618|Kötü|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 15:36:49.414334|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 22:08:43.552740|adın ne|Benim adım Hermes &#128512;
+2021-12-02 22:08:55.817453|merhaba|Merhaba
+2021-12-02 22:09:00.551213|yardım|Merhaba. Benimle konuşurken yazabileceğin birkaç diyalog söylemek istiyorum, merhaba, nasılsın, adın ne, nerelisin, kaç yaşındasın, modern fizik nedir,görelilik nedir,ışık hızı,einstein kimdir
+2021-12-02 22:09:10.275479|kaç yaşındasın|Henüz bir kaç aylık &#128512;
+2021-12-02 22:09:20.449505|nerelisin|Edirne'de, Trakya Üniversitesi'nde geliştirildim.
+2021-12-02 22:09:33.641849|ışık hızı nedir|Einstein, özel görelilik kuramını ortaya atarken temel bir varsayım olarak ışığın bize göre hızının hep aynı olduğunu kabul etmişti. Yani, biz ne kadar hızlı gidersek gidelim, ışık bize göre hep aynı hızla yayılıyor. 
+2021-12-02 22:12:41.369071|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 23:18:32.108493|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 23:18:40.568298|Nasılsın|Harikayım. Sen ?
+2021-12-02 23:19:08.071340|Görelilik kanunu|Görelilik, bir fiziksel büyüklüğün farklı gözlemcilerce ölçülen değerleri arasındaki ilişkiyi belirler.
+2021-12-02 23:19:33.733243|Nerelisin|Internet &#128512;
+2021-12-02 23:19:45.324896|Nerelisin|Edirne'de, Trakya Üniversitesi'nde geliştirildim.
+2021-12-02 23:20:20.206090|Kaç yaşındasın|Yaşımı söylemesem &#128512;
+2021-12-02 23:20:37.198446|Ben 19 yasindayim|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 23:20:46.496653|Yardım|Merhaba. Benimle konuşurken yazabileceğin birkaç diyalog söylemek istiyorum, merhaba, nasılsın, adın ne, nerelisin, kaç yaşındasın, modern fizik nedir,görelilik nedir,ışık hızı,einstein kimdir
+2021-12-02 23:21:06.769985|Einstein kimdir|Kuramsal fiziğe verdiği hizmetler ve özellikle fotoelektrik etkiyi buluşu için  1921 yılında Nobel Fizik Ödülü alan ünlü fizikçi.
+2021-12-02 23:48:11.479861|doppler|Doppler etkisi, adını ünlü bilim insanı ve matematikçi Christian Andreas Doppler'den almakta olup, kısaca dalga özelliği gösteren herhangi bir fiziksel varlığın frekans ve dalga boyu'nun hareketli bir gözlemci tarafından farklı zaman veya konumlarda farklı algılanması olayıdır.  Günlük hayatta buna her zaman tanık olmaktayız. Örneğin bir yolun kenarında beklerken bize yaklaşan taşıtların motorundan çıkan seslerin frekansının giderek arttığını duyarız. Araç yanımızdan geçip bizden uzaklaşmaya başladığındaysa frekans giderek azalır. Linkteki videoya gözatmanı tavsiye ederim https://www.youtube.com/watch?v=rbcvPEXiWWo 
+2021-12-02 23:48:42.572374|Doppler|Doppler etkisi, adını ünlü bilim insanı ve matematikçi Christian Andreas Doppler'den almakta olup, kısaca dalga özelliği gösteren herhangi bir fiziksel varlığın frekans ve dalga boyu'nun hareketli bir gözlemci tarafından farklı zaman veya konumlarda farklı algılanması olayıdır.  Günlük hayatta buna her zaman tanık olmaktayız. Örneğin bir yolun kenarında beklerken bize yaklaşan taşıtların motorundan çıkan seslerin frekansının giderek arttığını duyarız. Araç yanımızdan geçip bizden uzaklaşmaya başladığındaysa frekans giderek azalır. Linkteki videoya gözatmanı tavsiye ederim https://www.youtube.com/watch?v=rbcvPEXiWWo 
+2021-12-02 23:51:50.205544|Atom|Yunan atom teorisi Miletli LEUCIPPUS (M.Ö. 430 tahminen) ve bilhassa talebesi DEMOCRITUS (M.Ö. 470-400 tahminen) tarafindan kurulmus, Sisamli EPICURUS (M.Ö. 306) ve antikitenin en dikkate deger materyalist sistemiyle De Natura Rerum'un (esyanin mahiyeti hakkinda) müellifi Lâtin sair ve fizikçisi LUCRETIUS (M.Ö. 90-95) tarafindan devam ettirilmistir. Bunlara göre madde ancak bir dereceye kadar bölünebilir. Artik bölünmesi mümkün olmayan son bölünme kismina da Epikurus, Yunancada bölünemez anlamina gelen Atomos'dan Atom adini vermistir. Atomlar sert ve doludurlar. Bir cisim bunlarin birlesmesi ile vücut bulur, ayrilmasa ile de mahvolur. Atom kavramı ilk kez Yunanistan’ın İskeçe şehrine bağlı bir sahil kasabası olan Abdera’da ortaya atılmıştır. Haritadan bakmanızı tavsiye ederim.
+2021-12-02 23:52:27.335106|Demokritos|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 23:52:43.896657|Demokritus|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-02 23:53:09.223864|Modern fizik|Modern fizik, günlük yaşamımızda haşır neşir olduğumuz cisimlerin gözle görülemeyecek kadar küçük parçalarıyla (atomik boyutlarla 10−9 m civarı) ya da günlük hızların binlerce kat fazlasıyla (ışık hızına yakın hızlarla 108 ms civarı) uğraşır.Başlıca konuları görelilik, kara cisim ışıması, fotoelektrik etki, atom modelleri, Compton olayı, Stern-Gerlach deneyi, dalga-parçacık ikiliği sayılabilir.
+2021-12-02 23:53:23.753990|Compton olayı|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-03 07:04:25.879205|Adın ne|Benim adım Hermes &#128512;
+2021-12-03 07:04:34.975428|Hermes ne demek|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-08 11:28:50.358048|test|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-09 09:52:21.540580|sınav soruları|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-17 16:44:03.845485|einstein|1921 yılında ‘Kuramsal fiziğe verdiği hizmetler ve özellikle fotoelektrik etkiyi buluşu için’ kendisine Nobel Fizik Ödülü verilmiştir.
+2021-12-17 16:44:24.560210|einstein kimdir|Dünyada, en çok tanınan bilim insanlarından biri
+2021-12-17 16:44:38.869049|einstein kimdir|e=mc2
+2021-12-17 16:44:51.859504|fotoelektrik etki|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-17 16:45:05.920785|klasik görelilik|Görelilik, bir fiziksel büyüklüğün farklı gözlemcilerce ölçülen değerleri arasındaki ilişkiyi belirler.
+2021-12-17 16:45:24.245671|özel görelilik nedir|Özel görelilik kuramından elde edilen bütün sonuçların etkileri, gündelik hayatımızda fark edemeyeceğimiz kadar küçük. Ancak çok büyük hızlar veya enerjiler söz konusu olduğunda, bu kuramın öngördüğü etkiler belirgin hale geliyor.
+2021-12-17 16:46:02.631217|özel görelilik nedir|Bir cismin kütlesi, cismin durağan halde olduğu bir referans sisteminde ölçüldüğü enerjisidir. Diğer bir ifadeyle cismin durağan haldeyken sahip olduğu enerjisidir.
+2021-12-17 16:50:29.572888|ışığın hızı|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-17 16:50:59.082410|görelilik teorisi|Bir cismin kütlesi, cismin durağan halde olduğu bir referans sisteminde ölçüldüğü enerjisidir. Diğer bir ifadeyle cismin durağan haldeyken sahip olduğu enerjisidir.
+2021-12-17 16:51:44.557615|referans sistemi|Newton’un birinci yasasına göre hareket eden referans sistemlerine yani sabit hızla(sıfır ivmeli) hareket eden sistemlere eylemsiz referans sistemi denir.
+2021-12-17 16:52:43.346370|zaman genleşmesi|Zamanın genişlemesi 1970'lerde yapılan bir deney ile ispatlanmaya çalışılmıştır. Dünya üzerinde bir laboratuvarda ve bir uçakta çok hassas atom saati bulundurulmuştur. Jet uçağı Dünya etrafında doğu ve batı yönünde dolandırılmış ve uçaktaki saat ile labarotuvardaki zaman kıyaslanmıştır. Uçakta hareket hâlindeki saatin sabit saate göre 239 ns daha yavaş çalıştığı sonucuna ulaşılmıştır. Zamanın genişlemesini gösteren bir diğer deney de müon atom altı parçacık deneyidir. Uzaydan Dünya’ya gelen müon parçacıkları ışık hızına çok yakın hızlarda hareket eder. Müonların yarılanma süresi 2 mikrosaniye (μs) dir. Buna göre müonların yaşam 600 metre içinde sona ermesi gerekir. Yeryüzüne ulaşmaları ancak zamanın genişlemesi ile açıklanabilir. Yeryüzünde ölçülen yarı ömürlerinin 16 μs olması yine zamanın genişlemesini kanıtlar.
+2021-12-17 16:54:58.142122|gama parametresi|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-17 16:55:11.588571|gama paremetresi|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-17 16:55:20.836662|has zaman|Zaman gözlemciye bağlı olarak değişir. Özel göreliliğin en önemli sonuçlardan bir tanesi zamanın mutlaklığının olmaması. İlk defa Newton tarafından dile getirilen mutlak zaman kavramı, herkese göre aynı işleyen, gözlemciden gözlemciye değişmeyen tek bir zamanın olduğunu söyler. Ama görelilik kuramında, farklı gözlemcilerin belli iki olay arasında geçen süreyi farklı bulduğunu görüyoruz. Görelilik ilkesi gereği, her gözlemciye göre geçen zaman o gözlemciye göre doğru olduğu için de mutlak bir zamandan söz edemiyoruz.
+2021-12-17 16:58:11.690085|boy kısalması|Özel göreliliğin bir diğer önemli sonucu da boy kısalmasıdır. Tıpkı zaman genişlemesinde olduğu gibi, ışık hızına yakın hızlarda boy da göreli olarak değişime uğrar. Lorentz daralması veya uzunluk büzülmesi verilen olay, ışık hızına yakın hızlarda hareket eden bir cismin duran gözlemciye göre daha kısa görünmesi olarak basitçe ifade edilebilir. Boydaki kısalmanın sadece hareket doğrultusunda gerçekleştiği de not edilmelidir.
+2021-12-17 17:08:21.342661|zamanın göreliliği|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-19 14:44:18.516570|test|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-19 14:44:48.045909|Özel görelilik nedir?|Bir cismin kütlesi, cismin durağan halde olduğu bir referans sisteminde ölçüldüğü enerjisidir. Diğer bir ifadeyle cismin durağan haldeyken sahip olduğu enerjisidir.
+2021-12-19 14:45:01.321750|Doppler etki nedie|Doppler etkisi, adını ünlü bilim insanı ve matematikçi Christian Andreas Doppler'den almakta olup, kısaca dalga özelliği gösteren herhangi bir fiziksel varlığın frekans ve dalga boyu'nun hareketli bir gözlemci tarafından farklı zaman veya konumlarda farklı algılanması olayıdır.  Günlük hayatta buna her zaman tanık olmaktayız. Örneğin bir yolun kenarında beklerken bize yaklaşan taşıtların motorundan çıkan seslerin frekansının giderek arttığını duyarız. Araç yanımızdan geçip bizden uzaklaşmaya başladığındaysa frekans giderek azalır. Linkteki videoya gözatmanı tavsiye ederim https://www.youtube.com/watch?v=rbcvPEXiWWo 
+2021-12-19 14:48:20.390980|Frekans azaldıkça ses tizleşir mi|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-19 14:48:31.133845|Michelson morley deneyi|Deneyin hedefi, varsayımsal etere göre Dünya’nın hızını tayin etmekti. Eğer Dünya eter adı verilen varsayımsal ortamın içerisinde ilerliyorsa, ışık düzenek içerisinden geçip farklı zamanlarda alıcıya düşecekti. Daha detaylı ifade edecek olursak, Dünya eterin içerisinden v hızıyla akıyorsa, eter de Dünya etrafında v hızıyla akar. Dünya’nın hareketine zıt yönde olan bu eterin v hızıyla akışı, Dünya referans sisteminde ölçülen ışık hızının (c) aynaya yaklaşırken c-v, aynadan yansıdıktan sonra da c+v olması demektir. Yapılan ve tekrarlanan deneyler ışık hızında herhangibir değişiklik olmadığını gösterdi. Ölçülen hız aynaya yaklaşırken de, uzaklaşırken de c oluyordu. Bu dünyanın durduğu sonucunu doğuruyordu ki bu mümkün değildi. Bu sonuç bizi başka bir yargıya daha ulaştırabilir; ışık dünyanın hareketinden etkilenmeden hareket eder.
+2021-12-19 14:49:13.279729|Zaman genişlemesi|Zaman gözlemciye bağlı olarak değişir. Özel göreliliğin en önemli sonuçlardan bir tanesi zamanın mutlaklığının olmaması. İlk defa Newton tarafından dile getirilen mutlak zaman kavramı, herkese göre aynı işleyen, gözlemciden gözlemciye değişmeyen tek bir zamanın olduğunu söyler. Ama görelilik kuramında, farklı gözlemcilerin belli iki olay arasında geçen süreyi farklı bulduğunu görüyoruz. Görelilik ilkesi gereği, her gözlemciye göre geçen zaman o gözlemciye göre doğru olduğu için de mutlak bir zamandan söz edemiyoruz.
+2021-12-19 14:49:41.613460|Rossi hall deneyi|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-19 14:49:56.846016|Müon nedir|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-19 14:50:13.872008|Rossi hall deneyi nedir|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-19 14:50:23.209632|Uzunluk büzülmesi nedir|Özel göreliliğin bir diğer önemli sonucu da boy kısalmasıdır. Tıpkı zaman genişlemesinde olduğu gibi, ışık hızına yakın hızlarda boy da göreli olarak değişime uğrar. Lorentz daralması veya uzunluk büzülmesi verilen olay, ışık hızına yakın hızlarda hareket eden bir cismin duran gözlemciye göre daha kısa görünmesi olarak basitçe ifade edilebilir. Boydaki kısalmanın sadece hareket doğrultusunda gerçekleştiği de not edilmelidir.
+2021-12-19 14:50:43.622270|Referans sistemi|Newton’un birinci yasasına göre hareket eden referans sistemlerine yani sabit hızla(sıfır ivmeli) hareket eden sistemlere eylemsiz referans sistemi denir.
+2021-12-19 14:51:05.239080|Özel görelilik ile ilgili soru örneği|Newton fiziğinde kütleyi nasıl ele aldığımızdan daha önce bahsetmiştik. Newton fiziği, her ne kadar günlük hayatımızda işimize yarasa da ışık hızına yaklaştıkça yanlış tahminlerde bulunmaktadır. Bu tarz durumlarda, Newton fiziğinin çok daha genel bir hali olan özel görelilik teorisini kullanmamız gerekir.
+2021-12-19 14:51:33.022196|Bu konu ile ilgili soru sorabilir misin|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-19 14:51:36.414951|Soru|Harika ! Sorunu merakla bekliyorum
+2021-12-19 14:51:40.942999|Örnek|Zamanın genişlemesi 1970'lerde yapılan bir deney ile ispatlanmaya çalışılmıştır. Dünya üzerinde bir laboratuvarda ve bir uçakta çok hassas atom saati bulundurulmuştur. Jet uçağı Dünya etrafında doğu ve batı yönünde dolandırılmış ve uçaktaki saat ile labarotuvardaki zaman kıyaslanmıştır. Uçakta hareket hâlindeki saatin sabit saate göre 239 ns daha yavaş çalıştığı sonucuna ulaşılmıştır. Zamanın genişlemesini gösteren bir diğer deney de müon atom altı parçacık deneyidir. Uzaydan Dünya’ya gelen müon parçacıkları ışık hızına çok yakın hızlarda hareket eder. Müonların yarılanma süresi 2 mikrosaniye (μs) dir. Buna göre müonların yaşam 600 metre içinde sona ermesi gerekir. Yeryüzüne ulaşmaları ancak zamanın genişlemesi ile açıklanabilir. Yeryüzünde ölçülen yarı ömürlerinin 16 μs olması yine zamanın genişlemesini kanıtlar.
+2021-12-19 14:52:21.229717|Bize en yakın yıldız|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-19 14:52:25.642767|Örnek|Zamanın genişlemesi 1970'lerde yapılan bir deney ile ispatlanmaya çalışılmıştır. Dünya üzerinde bir laboratuvarda ve bir uçakta çok hassas atom saati bulundurulmuştur. Jet uçağı Dünya etrafında doğu ve batı yönünde dolandırılmış ve uçaktaki saat ile labarotuvardaki zaman kıyaslanmıştır. Uçakta hareket hâlindeki saatin sabit saate göre 239 ns daha yavaş çalıştığı sonucuna ulaşılmıştır. Zamanın genişlemesini gösteren bir diğer deney de müon atom altı parçacık deneyidir. Uzaydan Dünya’ya gelen müon parçacıkları ışık hızına çok yakın hızlarda hareket eder. Müonların yarılanma süresi 2 mikrosaniye (μs) dir. Buna göre müonların yaşam 600 metre içinde sona ermesi gerekir. Yeryüzüne ulaşmaları ancak zamanın genişlemesi ile açıklanabilir. Yeryüzünde ölçülen yarı ömürlerinin 16 μs olması yine zamanın genişlemesini kanıtlar.
+2021-12-19 14:52:34.558781|Soru örneği|Üzgünüm anlayamadım &#129300; Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-19 14:52:34.957456|Soru örneği|Ne demek istediğini anlayamadım &#129300;Aşağıdaki mesaj kutusuna 'yardım' yazarak benimle nasıl konuşacağını öğrenebilirsin
+2021-12-19 14:52:50.969390|Özel görelilik sorusu|Özel görelilik kuramından elde edilen bütün sonuçların etkileri, gündelik hayatımızda fark edemeyeceğimiz kadar küçük. Ancak çok büyük hızlar veya enerjiler söz konusu olduğunda, bu kuramın öngördüğü etkiler belirgin hale geliyor.
+2021-12-19 14:53:05.984881|Lorentz dönüşümleri|Özel izafiyet teorisinde farklı referans sistemleri arasındaki zaman ve koordinat degerlerinin arasındaki ilişkiyi ortaya koyan bagıntılardır..Hollandalı fizikçi Loretnz bu bagıntıları Einstein ozel izafiyet yasasını ortaya atmadan once olusturmustur. v<<c olması halinde Lorentz dönüşümleri galileo dönüşümlerine indirgenir.
